@@ -1,1 +1,1 @@
-console.log("dkfldjslf Hello World test");
+console.log("Hello World test");
